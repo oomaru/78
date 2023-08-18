@@ -1,0 +1,33 @@
+body {
+    background-color:darkgrey;
+}
+
+.navbar-custom {
+    height: 75px;
+
+
+}
+
+.col-custom {
+    padding-left: 300px;
+}
+
+
+.btn-outline-custom {
+    background-color: transparent;
+    border: 1px solid cadetblue;
+    color: cadetblue;
+    padding: 10px;
+
+}
+
+.btn-outline-custom:hover {
+    background-color: cadetblue;
+    color: white;
+    border: red;
+    padding: 20px;
+}
+
+.footer-custom{
+    background-color: black;
+}
